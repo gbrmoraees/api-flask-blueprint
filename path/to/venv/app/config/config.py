@@ -5,6 +5,6 @@ def get_db_connection():
         host='127.0.0.1',
         user='root',
         password='root',
-        database='gest_user',
+        database='lp_trainer',
         port=8889
     )
