@@ -76,7 +76,3 @@ def login():
             )
         )
     
-
-#pip install flask mysql-connector-python
-#pip install flask-cors
-    
